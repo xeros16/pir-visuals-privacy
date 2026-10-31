@@ -104,9 +104,9 @@ The latest version will be published at the same Privacy Policy URL.
 For questions, privacy concerns, or data deletion requests, contact:
 
 **Application:** Bot-Grup-Desain  
-**Developer / Administrator:** [Your Name or Organization]  
-**Email:** [Your Contact Email]  
-**Website:** [Your Website or GitHub Pages URL]
+**Developer / Administrator:** Pir Visuals 
+**Email:** visualspi@gmail.com
+**Website:** 
 
 ---
 
