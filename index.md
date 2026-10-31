@@ -106,7 +106,7 @@ For questions, privacy concerns, or data deletion requests, contact:
 **Application:** Bot-Grup-Desain  
 **Developer / Administrator:** Pir Visuals 
 **Email:** visualspi@gmail.com
-**Website:** 
+**Website:** https://github.com/xeros16
 
 ---
 
