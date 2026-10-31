@@ -1,26 +1,26 @@
-# Privacy Policy – Bot-Grup-Desain
+# Privacy Policy – Pir Visuals
 
 **Effective Date:** October 31, 2026  
 **Last Updated:** October 31, 2026
 
 ## 1. Introduction
 
-Bot-Grup-Desain ("the Bot", "we", "our", or "us") is a WhatsApp-based bot designed to provide tools and utilities for design communities.
+Pir Visuals ("the Bot", "we", "our", or "us") is a WhatsApp-based bot designed to provide tools and utilities for design communities.
 
-This Privacy Policy explains how Bot-Grup-Desain handles information when users interact with features that use the Pinterest API.
+This Privacy Policy explains how Pir Visuals handles information when users interact with features that use the Pinterest API.
 
-By using the Pinterest-related features of Bot-Grup-Desain, you acknowledge the practices described in this Privacy Policy.
+By using the Pinterest-related features of Pir Visuals, you acknowledge the practices described in this Privacy Policy.
 
 ## 2. Information We Access
 
-When users use Pinterest search features, Bot-Grup-Desain may process the following information:
+When users use Pinterest search features, Pir Visuals may process the following information:
 
 - Search keywords submitted through bot commands.
 - Public Pinterest Pin information returned through the Pinterest API, such as Pin IDs, image URLs, titles, and descriptions when available.
 - API authentication credentials required to access Pinterest services.
 - Technical information necessary to operate and troubleshoot the integration.
 
-Bot-Grup-Desain does not request users' Pinterest passwords.
+Pir Visuals does not request users' Pinterest passwords.
 
 ## 3. How We Use Information
 
@@ -34,7 +34,7 @@ Information accessed through Pinterest is used only to:
 
 ## 4. Pinterest API Usage
 
-Bot-Grup-Desain uses the Pinterest API to retrieve Pinterest content according to the permissions granted to its application.
+Pir Visuals uses the Pinterest API to retrieve Pinterest content according to the permissions granted to its application.
 
 Our use of Pinterest data is subject to Pinterest's applicable Developer Guidelines, API Terms, and policies.
 
@@ -74,7 +74,7 @@ However, no internet-based system can guarantee absolute security.
 
 ## 8. Third-Party Services
 
-Bot-Grup-Desain may interact with third-party platforms, including:
+Pir Visuals may interact with third-party platforms, including:
 
 - Pinterest: https://policy.pinterest.com/en/privacy-policy
 - WhatsApp: https://www.whatsapp.com/legal/privacy-policy
@@ -89,7 +89,7 @@ Requests can be submitted using the contact information below.
 
 ## 10. Children's Privacy
 
-Bot-Grup-Desain is not intentionally designed to collect personal information from children.
+Pir Visuals is not intentionally designed to collect personal information from children.
 
 If you believe that a child has provided personal information through the Bot, please contact the administrator so that the matter can be reviewed.
 
@@ -103,11 +103,11 @@ The latest version will be published at the same Privacy Policy URL.
 
 For questions, privacy concerns, or data deletion requests, contact:
 
-**Application:** Bot-Grup-Desain  
+**Application:** Pir Visuals  
 **Developer / Administrator:** Pir Visuals 
 **Email:** visualspi@gmail.com
 **Website:** https://github.com/xeros16
 
 ---
 
-*This Privacy Policy applies to the Pinterest API integration of Bot-Grup-Desain.*
+*This Privacy Policy applies to the Pinterest API integration of Pir Visuals.*
